@@ -1,4 +1,4 @@
-# Modelo de Préstamos Personales - Thera Bank
+# <font color='red'>Modelo de Préstamos Personales - Thera Bank</font>
 
 ¡Bienvenido al repositorio del proyecto final de Data Science de Thera Bank sobre el Modelado de Préstamos Personales! En este proyecto, hemos utilizado técnicas de ciencia de datos para construir un modelo predictivo que ayuda a Thera Bank a evaluar la elegibilidad de los clientes para obtener préstamos personales.
 
@@ -35,5 +35,7 @@ Después de completar el proceso de modelado, logramos desarrollar un modelo pre
 En este repositorio, encontrará los siguientes archivos y carpetas:
 
 - **notebooks**: Esta carpeta contiene los cuadernos Jupyter utilizados durante el proyecto, que incluyen el análisis exploratorio de datos, el preprocesamiento de datos, el modelado y la evaluación del modelo: https://colab.research.google.com/github/Augustobar1991/Proyecto-Coderhouse-Data-Science/blob/main/Bank/Entrega/Informe_completo_Modelado_de_pr%C3%A9stamos_personales_(Barchi).ipynb
+
+<font color='red'>Abrir directamente en este link, GITHUB RECORTA y no carga el total del estudio</font>
 
 - **data**: Esta carpeta contiene el conjunto de datos utilizado para el proyecto: https://github.com/Augustobar1991/Proyecto-Coderhouse-Data-Science/blob/main/Bank/Bank.csv
